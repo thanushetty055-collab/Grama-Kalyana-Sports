@@ -1,20 +1,109 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🏆 Grama-Kalyana Sports  
+### 📱 Digital Scoreboard for Local Tournaments
 
-# Run and deploy your AI Studio app
+---
 
-This contains everything you need to run your app locally.
+## 🚩 Problem Statement
+Village-level sports tournaments like **🏐 Volleyball**, **🤼 Kabaddi**, and **🏏 Cricket** are widely popular, but:
 
-View your app in AI Studio: https://ai.studio/apps/637759d2-5698-49fe-b7f2-0ebe9980dd76
+- 📄 Scoring is done manually on paper  
+- 🌍 No way to view **live scores remotely**  
+- 🧑‍🎓 Players lack a **digital career record**  
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## 🌟 Vision
+**Grama-Kalyana Sports** transforms local matches into a **professional league experience** by providing:
 
+- 📡 Real-time score updates  
+- 📊 Digital player statistics  
+- 🏅 Recognition of local sports talent  
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+> 💡 Turning *village games into global experiences*
+
+---
+
+## 🔄 App Workflow
+
+### 🛠️ Tournament Setup
+- ➕ Add teams & players  
+- 📅 Create match schedules  
+
+### 🎯 Live Scorer
+- 📲 Simple interface to update scores in real-time  
+- ⚡ Instant sync across all devices  
+
+### 👀 Public View (Fan Mode)
+- 📡 Live score tracking from anywhere  
+- 📢 Stay updated without being physically present  
+
+### 📈 Player Stats
+- 🏆 "Man of the Match" tracking  
+- 📚 Career history & performance records  
+
+---
+
+## ⚙️ Technical Implementation
+
+- 🔥 **Firebase Realtime Database**  
+  → Ensures **low-latency live updates**  
+
+- 🎨 **UI Design**  
+  → High-contrast, bold scoreboard (sunlight readable ☀️)  
+
+- 📤 **Sharing Feature**  
+  → Export scorecards and share via **WhatsApp**  
+
+---
+
+## 🎯 Impact Goals
+
+- 👨‍🎓 **Youth Engagement**  
+  → Makes local sports more exciting and professional  
+
+- 🌱 **Talent Pipeline**  
+  → Digital records for state-level recognition  
+
+- 🤝 **Community Building**  
+  → Connects villages through sports & technology  
+
+---
+
+## ✅ Success Criteria
+
+- ⚡ Live score updates within **1 second**  
+- 🏅 Supports at least **3 sports**:
+  - 🤼 Kabaddi  
+  - 🏐 Volleyball  
+  - 🏏 Cricket  
+- 🌞 UI must be **clearly visible outdoors**  
+
+---
+
+## 🚀 Features Overview
+
+- 📡 Real-time scoring  
+- 👥 Multi-user access  
+- 📊 Player performance tracking  
+- 📤 Easy sharing of results  
+- 📱 Mobile-friendly design  
+
+---
+
+## 🧑‍💻 Future Enhancements
+
+- 📍 GPS-based tournament discovery  
+- 🎥 Live match streaming  
+- 🏆 Leaderboards & rankings  
+- 🤖 AI-based performance insights  
+
+---
+
+## 🤝 Contributing
+Contributions are welcome!  
+Feel free to fork, improve, and submit a pull request.
+
+---
+
+## 📜 License
+This project is open-source and available under the **MIT License**.
