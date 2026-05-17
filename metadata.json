@@ -1,0 +1,14 @@
+{
+  "name": "Grama-Kalyana Sports",
+  "description": "A real-time, mobile-first sports scoreboard for village tournaments. Supports Cricket, Volleyball, and Kabaddi with live updates, player stats, and AI-powered match insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "Real-time Scoreboards",
+    "Multi-sport Support",
+    "AI Match Commentary",
+    "WhatsApp Sharing"
+  ]
+}
